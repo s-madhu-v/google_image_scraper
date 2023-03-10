@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+image-links/smile.txt
+.gitignore
+image-links/crying.txt
+.gitignore
