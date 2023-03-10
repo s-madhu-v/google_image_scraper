@@ -3,9 +3,11 @@ scrape google images
 
 Step1: First clone this repo: git clone https://github.com/s-madhu-v/google_image_scraper.git
 
-Step2: sudo bash google_image_scraper/setup.sh
+Step2: cd google_image_scraper
 
-Step3: Enter search terms line by line in search_terms.txt inside the cloned folder
+Step2: sudo bash setup.sh
+
+Step3: Open search_terms.txt and Enter search terms line by line
 
 Step4: bash download\ links.sh
 
