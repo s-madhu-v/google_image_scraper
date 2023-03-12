@@ -1,4 +1,4 @@
-# google_image_scraper
+# Docker image for downloading datasets quickly
 scrape google images
 
 Step1: First clone this repo: git clone https://github.com/s-madhu-v/google_image_scraper.git
